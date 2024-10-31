@@ -58,7 +58,7 @@ The data analyst team connects to the SQL database, performs ETL, and based on t
 - Change in revenue Year-over-year
 - Table showing revenue, revenue contribution, and profit margin contribution on different customers.
 
-The live dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiOWQ2ZWU5NGItNTY3Yy00NTc2LTk0MDAtZTAxOGUyOTViOTcwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+The live dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiZTI5NTc3ZGQtNDQwNy00YzhkLTgxYWEtYWFlYTUzYmU0NmIxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
 ## ⛏️ Tools Used  <a name = "a_2_built_using"></a>
